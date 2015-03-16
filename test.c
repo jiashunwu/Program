@@ -7,4 +7,7 @@
 
 #include<stdio.h>
 #include<stdlib.h>
-
+{
+	int index;
+	return 0;
+}
