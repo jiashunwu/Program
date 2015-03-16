@@ -9,5 +9,9 @@
 #include<stdlib.h>
 {
 	int index;
+	for(index=0;index<argc;index++)
+	{
+	
+	}
 	return 0;
 }
